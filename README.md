@@ -18,3 +18,7 @@ This part was much more easier and constructive then previous course about Git a
 
 
 ### 3.Intro to HTML and CSS
+Was very usefull course, but to understand all this stuff fully I decided to do all exersises about HTML and CSS on Freecodecamp.
+[Intro to HTML and CSS](https://raw.githubusercontent.com/JuliaVorotchenko/kottans-frontend/master/task_html_css_intro/Intro%20to%20html%20and%20css%20screenshot.png)
+[Основы HTML](https://raw.githubusercontent.com/JuliaVorotchenko/kottans-frontend/master/task_html_css_intro/Basics%20HTML%20HTML%20academy.png)
+[Основы CSS](https://raw.githubusercontent.com/JuliaVorotchenko/kottans-frontend/master/task_html_css_intro/Intro%20to%20html%20and%20css%20screenshot.png)
